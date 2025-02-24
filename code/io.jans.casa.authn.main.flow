@@ -11,7 +11,7 @@ Repeat 3 times max
      userData = RRF "main.ftlh" obj
      Call reinutil validate userData.username userData.password
      Quit When reinutil.validCredentials is true
-     obj.message = "Wrong user name or password"
+     obj.message = Wrong user name or password
      obj.username = userData.username
 When reinutil.validCredentials is false
      Finish false
@@ -35,7 +35,7 @@ Repeat 3 times max
      When E is not null
           Log "@error Authentication flow % for user % crashed: %" method userData.inum E
           E = null
-          message = "We had trouble authenticating you"
+          message = We had trouble authenticating you
      Otherwise
           When obj.success is true
                Call reinutil updateTrustedDevices 
