@@ -31,7 +31,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			},
 			"selected": false
 		},
@@ -66,7 +66,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -100,7 +100,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -126,7 +126,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -161,7 +161,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -189,7 +189,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -224,7 +224,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -256,7 +256,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			},
 			"selected": true
 		},
@@ -326,7 +326,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -416,7 +416,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		}
 	],
@@ -651,8 +651,8 @@
 		}
 	],
 	"viewport": {
-		"x": -393.57272502525757,
-		"y": 17.155259250756124,
-		"zoom": 0.7536674547791904
+		"x": 0,
+		"y": 0,
+		"zoom": 1
 	}
 }
